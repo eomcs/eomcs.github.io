@@ -23,20 +23,22 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 
 ## 자바스크립트 프로그래밍
 - JavaScript 기초
-- JavaScript + HTML5 + CSS = HTML5 애플리케이션
-- JavaScript + HTML5 + CSS + Electron = 데스크톱 애플리케이션
-- JavaScript + HTML5 + CSS + Node.js = 웹 애플리케이션
-- JavaScript + HTML5 + CSS + PhoneGap = 모바일 애플리케이션
+- HTML5 프로그래밍 = JavaScript + HTML5 + CSS + DOM API + Event + AJAX
+- 자바스크립트 라이브러리 만들기 = HTML5 프로그래밍 + eomcs.js  
+- 자바스크립트 프레임워크 사용하기 = HTML5 프로그래밍 + jQuery + Bootstrap
+- 데스크톱 애플리케이션 만들기 = HTML5 프로그래밍 + Electron
+- 웹 애플리케이션 만들기 = HTML5 프로그래밍 + Node.js + Express
+- 하이브리드 모바일 앱 만들기 = HTML5 프로그래밍 + PhoneGap 
 
 ## 자바 프로그래밍
 - Java 기초
-- Java + JDBC API + SQL = DB 애플리케이션
-- Java + Mybatis + SQL = DB 애플리케이션 II
-- Java + Spring IoC = 빈 컨테이너 기반 자바 애플리케이션
-- Java + Servlet/JSP = 웹 애플리케이션
-- Java + Servlet/JSP + JDBC API = 웹 애플리케이션 II
-- Java + Servlet/JSP + Mybatis = 웹 애플리케이션 III
-- Java + Servlet/JSP + Mybatis + MVC = MVC 웹 애플리케이션
+- Java + JDBC API + SQL = JDBC 기반 DB 프로그래밍
+- Java + Mybatis + SQL = 퍼시스턴스 프레임워크 기반 DB 프로그래밍
+- Java + Spring IoC = 의존성 주입 프로그래밍
+- Java + Servlet/JSP = 웹 프로그래밍
+- Java + Servlet/JSP + JDBC API = 웹 JDBC 프로그래밍
+- Java + Servlet/JSP + Mybatis = 웹 퍼시스턴스 프레임워크 프로그래밍
+- Java + Servlet/JSP + Mybatis + MVC = MVC 웹 프로그래밍
 - Java + Servlet/JSP + Mybatis + MVC + Spring IoC = MVC 웹 애플리케이션 II
 - Java + Servlet/JSP + Mybatis + Spring IoC/MVC = MVC 웹 애플리케이션 III
 - Java + Mybatis + Spring IoC/MVC + HTML5 + CSS + JavaScript + AJAX = RESTful 웹 애플리케이션
