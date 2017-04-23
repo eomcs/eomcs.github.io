@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/eomcs/eomcs.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## 책 소스
+- [열혈강의, 자바 웹 개발 워크북 - 2nd](https://github.com/eomcs/eomcs-book-src-java-web-2nd)
+- [엄진영의 코딩스쿨, 자바스크립트 프로그래밍: 노드와 폰갭을 이용하여 모바일/데스크톱/웹 애플리케이션을 만들기 - 1st](https://github.com/eomcs/eomcs-book-src-javascript-)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
