@@ -2,9 +2,8 @@
 
 YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/channel/UCFE2399tt4cP9t4KNe8boog) 강의소스와 책 소스를 모아 둔 저장소입니다.
 
-## 강의 소스(준비중)
 
-### 개발 도구 준비
+## 개발 도구 준비
 - Mysql 서버 설치 및 설정
 - Git 클라이언트 도구 설치
 - JDK 설치 및 설정
@@ -13,7 +12,7 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 - Atom 설치 및 설정
 - Visual Studio Code 설치 및 설정
 
-### 공통 기술
+## 공통 기술
 - SQL 기초
 - DB 모델링
 - Git 기초
@@ -22,14 +21,14 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 - XML 기초
 - HTML5/CSS 기초
 
-### 자바스크립트 프로그래밍
+## 자바스크립트 프로그래밍
 - JavaScript 기초
 - JavaScript + HTML5 + CSS = HTML5 애플리케이션
 - JavaScript + HTML5 + CSS + Electron = 데스크톱 애플리케이션
 - JavaScript + HTML5 + CSS + Node.js = 웹 애플리케이션
 - JavaScript + HTML5 + CSS + PhoneGap = 모바일 애플리케이션
 
-### 자바 프로그래밍
+## 자바 프로그래밍
 - Java 기초
 - Java + JDBC API + SQL = DB 애플리케이션
 - Java + Mybatis + SQL = DB 애플리케이션 II
@@ -42,7 +41,7 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 - Java + Servlet/JSP + Mybatis + Spring IoC/MVC = MVC 웹 애플리케이션 III
 - Java + Mybatis + Spring IoC/MVC + HTML5 + CSS + JavaScript + AJAX = RESTful 웹 애플리케이션
 
-### 그루비 프로그래밍
+## 그루비 프로그래밍
 - Groovy 기초
 
 ### 책 소스
