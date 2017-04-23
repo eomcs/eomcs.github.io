@@ -23,25 +23,34 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 
 ## 자바스크립트 프로그래밍
 - JavaScript 기초
-- HTML5 프로그래밍 = JavaScript + HTML5 + CSS + DOM API + Event + AJAX
-- 자바스크립트 라이브러리 만들기 = HTML5 프로그래밍 + eomcs.js  
-- 자바스크립트 프레임워크 사용하기 = HTML5 프로그래밍 + jQuery + Bootstrap
-- 데스크톱 애플리케이션 만들기 = HTML5 프로그래밍 + Electron
-- 웹 애플리케이션 만들기 = HTML5 프로그래밍 + Node.js + Express
-- 하이브리드 모바일 앱 만들기 = HTML5 프로그래밍 + PhoneGap 
+- JavaScript + HTML5 + CSS + DOM API + Event + AJAX = HTML5 프로그래밍
+- HTML5 프로그래밍 + mini library = 미니 자바스크립트 라이브러리 만들기
+- HTML5 프로그래밍 + jQuery + Bootstrap = 오픈 소스 프레임워크 사용법
+- HTML5 프로그래밍 + Electron = 데스크톱 애플리케이션 만들기
+- HTML5 프로그래밍 + Node.js + Express = 웹 애플리케이션 만들기
+- HTML5 프로그래밍 + PhoneGap = 하이브리드 모바일 앱 만들기
 
 ## 자바 프로그래밍
 - Java 기초
-- Java + JDBC API + SQL = JDBC 기반 DB 프로그래밍
-- Java + Mybatis + SQL = 퍼시스턴스 프레임워크 기반 DB 프로그래밍
-- Java + Spring IoC = 의존성 주입 프로그래밍
-- Java + Servlet/JSP = 웹 프로그래밍
-- Java + Servlet/JSP + JDBC API = 웹 JDBC 프로그래밍
-- Java + Servlet/JSP + Mybatis = 웹 퍼시스턴스 프레임워크 프로그래밍
-- Java + Servlet/JSP + Mybatis + MVC = MVC 웹 프로그래밍
-- Java + Servlet/JSP + Mybatis + MVC + Spring IoC = MVC 웹 애플리케이션 II
-- Java + Servlet/JSP + Mybatis + Spring IoC/MVC = MVC 웹 애플리케이션 III
-- Java + Mybatis + Spring IoC/MVC + HTML5 + CSS + JavaScript + AJAX = RESTful 웹 애플리케이션
+- Java + File I/O = 파일 입출력 프로그래밍
+- Java + Socket API = 네트워크 프로그래밍
+- Java + Socket API + Thread = 스레드 프로그래밍
+- Java + JDBC API + SQL = JDBC 프로그래밍
+- Java + Mybatis = Mybatis 퍼시스턴스 프레임워크 사용법
+- Java + mini IoC = 미니 IoC 컨테이너 만들기
+- Java + Spring IoC = 오픈 소스 Spring IoC 컨테이너 사용법
+
+## 자바 웹 프로그래밍
+- Java + Servlet = 웹 프로그래밍
+- 웹 프로그래밍 + JDBC API = 웹 DB 프로그래밍
+- 웹 프로그래밍 + JDBC API + DAO = 데이터 처리 로직 분리
+- 웹 프로그래밍 + JDBC API + DAO + Service = 비즈니스 처리 로직 분리
+- 웹 프로그래밍 + JDBC API + DAO + Service + JSP = 뷰 처리 로직 분리
+- 웹 프로그래밍 + Mybatis + DAO + Service + JSP = 퍼시스턴스 프레임워크 도입
+- 웹 프로그래밍 + Mybatis + Service + JSP + Spring IoC = 객체 관리 자동화하기
+- 웹 프로그래밍 + Mybatis + Service + JSP + Spring IoC + mini MVC = 미니 MVC 프레임워크 만들기
+- 웹 프로그래밍 + Mybatis + Service + JSP + Spring IoC/MVC = 오픈 소스 Spring MVC 프레임워크 사용법
+- 웹 프로그래밍 + Mybatis + Service + Spring IoC/MVC  = RESTful 웹 애플리케이션
 
 ## 그루비 프로그래밍
 - Groovy 기초
