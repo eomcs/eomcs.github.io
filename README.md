@@ -4,6 +4,15 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 
 ## 강의 소스(준비중)
 
+### 개발 도구 준비
+- Mysql 서버 설치 및 설정
+- Git 클라이언트 도구 설치
+- JDK 설치 및 설정
+- Node.js 설치
+- Eclipse 설치 및 설정
+- Atom 설치 및 설정
+- Visual Studio Code 설치 및 설정
+
 ### 공통 기술
 - SQL 기초
 - DB 모델링
