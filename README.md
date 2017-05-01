@@ -42,10 +42,10 @@ YouTube에서 강의하는 [엄진영의 코딩스쿨](https://www.youtube.com/c
 
 ## 자바 웹 프로그래밍
 - Java + Servlet = 웹 프로그래밍
-- 웹 프로그래밍 + JDBC API = 웹 DB 프로그래밍
-- 웹 프로그래밍 + JDBC API + DAO = 데이터 처리 로직 분리
-- 웹 프로그래밍 + JDBC API + DAO + Service = 비즈니스 처리 로직 분리
-- 웹 프로그래밍 + JDBC API + DAO + Service + JSP = 뷰 처리 로직 분리
+- 웹 프로그래밍 + JDBC API + SQL = 웹 DB 프로그래밍
+- 웹 프로그래밍 + JDBC API + SQL + DAO = 데이터 처리 로직 분리
+- 웹 프로그래밍 + JDBC API + SQL + DAO + Service = 비즈니스 처리 로직 분리
+- 웹 프로그래밍 + JDBC API + SQL + DAO + Service + JSP = 뷰 처리 로직 분리
 - 웹 프로그래밍 + Mybatis + DAO + Service + JSP = 퍼시스턴스 프레임워크 도입
 - 웹 프로그래밍 + Mybatis + Service + JSP + Spring IoC = 객체 관리 자동화하기
 - 웹 프로그래밍 + Mybatis + Service + JSP + Spring IoC + mini MVC = 미니 MVC 프레임워크 만들기
